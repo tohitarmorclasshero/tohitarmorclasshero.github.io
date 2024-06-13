@@ -1,0 +1,733 @@
+{
+  "choices": [
+    {
+      "id": "a724bab0-cc92-4efd-8a94-7b067e406cd8",
+      "name": "📕 Story",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "13d05878-e695-499a-a342-a31006f5668f",
+          "name": "New Session Note",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Story Notes/Template - Session Note.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Parties/Session Notes"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": true
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "29e22750-c4be-4905-a4c3-0b42299c86be",
+          "name": "New Adventure",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Story Notes/Template - Adventure.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Parties/Adventures"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": true
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "e43e5aac-83d3-4993-b390-048a451f141b",
+          "name": "New Quest",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Story Notes/Template - Quest.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Parties/Quests"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": true
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "a4029407-1287-450a-9b74-4129409561c9",
+          "name": "New Service",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Story Notes/Template - Service.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Parties/Service Requests"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": true
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "e9178a22-fe4e-43c0-bf82-6a292baf691d",
+          "name": "New Journey Board",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Story Notes/Template - Journey Board.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Parties/Journey Boards"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": true
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        }
+      ]
+    },
+    {
+      "id": "920cfbdd-e216-4ced-af86-ea6420507497",
+      "name": "👤 Characters",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "3ad71beb-875e-49a5-890a-c7d60338a327",
+          "name": "New NPC",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Characters/Template - NPC.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/NPCs"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "a7b9a9e0-2272-4d4e-9902-dfe7be88a319",
+          "name": "New Organization",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Characters/Template - Organization.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Organizations"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "10e26885-c0f8-4704-8b90-f351f64ea1e9",
+          "name": "New Hierarchy",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Characters/Template - Hierarchy.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Organizations/Hierarchies"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "73a1bf99-4947-4b82-8771-7f8926b9f3d3",
+          "name": "New Player",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Characters/Template - Player.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Parties/Characters"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": true
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "2669722c-3d5f-4ac1-8141-c1b6dcef0b75",
+          "name": "New Deity",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Characters/Template - Deity.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Deities"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "77ad7a38-30f7-46f2-924f-f9fb50f05c89",
+          "name": "New Party Dashboard",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Characters/Template - Party Dashboard.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Parties/Party Dashboards"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "a7fe030c-c5d4-446e-80aa-090adc577f09",
+      "name": "🏰 Locations",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "c0559b19-cd3c-4fa2-a156-5c2d60d5bafe",
+          "name": "New Point of Interest",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Locations/Template - Point of Interest.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Points of Interest"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "fb0d513f-caa5-4f49-9883-04286d97f999",
+          "name": "New Settlement",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Locations/Template - Settlement.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Settlements"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "1da46921-f47a-4f89-88e0-5e8fc155d560",
+          "name": "New District",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Locations/Template - District.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Districts"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "8dae9340-e2bc-4f02-9a39-dd23aec89dad",
+          "name": "New County",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Locations/Template - County.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/County"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "4c143266-fc5f-4f68-8943-8a4cd9cff045",
+          "name": "New Geography",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Locations/Template - Geography.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Geography"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "84b2b648-96d6-4dcf-87f3-3be11f5fd12d",
+          "name": "New Planet",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Locations/Template - Planet.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Planets"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": true
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "bfd32caf-29d2-4fcf-b6fa-450b3b185a4b",
+          "name": "New Plane",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Locations/Template - Plane.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Planes"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": true
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        }
+      ]
+    },
+    {
+      "id": "b47bb97c-a305-4275-830b-65f4793cf495",
+      "name": "🛠️ Items",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "47c04e97-adf5-4b12-bd15-bb66b86cd64e",
+          "name": "New Letter",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Items/Template - Letter.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Letters"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": true
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "adcb07d3-b4b2-45c9-9dfb-b09dd91ea32a",
+          "name": "New Literature",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Items/Template - Literature.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Campaign/Literature"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        }
+      ]
+    },
+    {
+      "id": "a4c476e0-893f-42d6-901f-72c3150642e6",
+      "name": "❔Misc.",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "a6c4cffc-82c1-4caf-b0d8-0fa646a6b67c",
+          "name": "New Idea",
+          "type": "Template",
+          "command": true,
+          "templatePath": "z_Templates/GM Templates/Story Notes/Template - Idea.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Ideas"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": true
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        }
+      ]
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "1.9.0",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "OpenAI",
+        "endpoint": "https://api.openai.com/v1",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "gpt-3.5-turbo",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo-16k",
+            "maxTokens": 16384
+          },
+          {
+            "name": "gpt-3.5-turbo-1106",
+            "maxTokens": 16385
+          },
+          {
+            "name": "gpt-4",
+            "maxTokens": 8192
+          },
+          {
+            "name": "gpt-4-32k",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gpt-4-1106-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "text-davinci-003",
+            "maxTokens": 4096
+          }
+        ]
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true
+  }
+}

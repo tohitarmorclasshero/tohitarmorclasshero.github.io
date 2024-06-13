@@ -1,0 +1,116 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "GltTzpd-7gVfLE-1Qqhvs",
+      "name": "Character Green",
+      "value": "#82f88f"
+    },
+    {
+      "id": "djItUCzO4_bnijoRNeswS",
+      "name": "Location Yellow",
+      "value": "#f7f986"
+    },
+    {
+      "id": "yggdq5g9E40qUoDomC2ND",
+      "name": "Item Blue",
+      "value": "#7caefe"
+    },
+    {
+      "id": "RgDki54gYsYQaqEBrWwXV",
+      "name": "Info Purple",
+      "value": "#c581fd"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Campaign/NPCs",
+      "color": "GltTzpd-7gVfLE-1Qqhvs"
+    },
+    {
+      "path": "Campaign/Organizations",
+      "color": "GltTzpd-7gVfLE-1Qqhvs"
+    },
+    {
+      "path": "Campaign/Parties",
+      "color": "GltTzpd-7gVfLE-1Qqhvs"
+    },
+    {
+      "path": "Campaign/Deities",
+      "color": "GltTzpd-7gVfLE-1Qqhvs"
+    },
+    {
+      "path": "Campaign/Points of Interest",
+      "color": "djItUCzO4_bnijoRNeswS"
+    },
+    {
+      "path": "Campaign/Districts",
+      "color": "djItUCzO4_bnijoRNeswS"
+    },
+    {
+      "path": "Campaign/Settlements",
+      "color": "djItUCzO4_bnijoRNeswS"
+    },
+    {
+      "path": "Campaign/County",
+      "color": "djItUCzO4_bnijoRNeswS"
+    },
+    {
+      "path": "Campaign/Planets",
+      "color": "djItUCzO4_bnijoRNeswS"
+    },
+    {
+      "path": "Campaign/Letters",
+      "color": "yggdq5g9E40qUoDomC2ND"
+    },
+    {
+      "path": "Campaign/Literature",
+      "color": "yggdq5g9E40qUoDomC2ND"
+    },
+    {
+      "path": "Campaign/Lore",
+      "color": "RgDki54gYsYQaqEBrWwXV"
+    },
+    {
+      "path": "Campaign/Planes",
+      "color": "djItUCzO4_bnijoRNeswS"
+    },
+    {
+      "path": "Campaign/Parties/Service Requests",
+      "color": "RgDki54gYsYQaqEBrWwXV"
+    },
+    {
+      "path": "Campaign/Parties/Quests",
+      "color": "RgDki54gYsYQaqEBrWwXV"
+    },
+    {
+      "path": "Campaign/Parties/Session Notes",
+      "color": "RgDki54gYsYQaqEBrWwXV"
+    },
+    {
+      "path": "Campaign/Parties/Characters",
+      "color": "GltTzpd-7gVfLE-1Qqhvs"
+    },
+    {
+      "path": "Campaign/Parties/Party Dashboards",
+      "color": "GltTzpd-7gVfLE-1Qqhvs"
+    },
+    {
+      "path": "Campaign/Parties/Adventures",
+      "color": "RgDki54gYsYQaqEBrWwXV"
+    },
+    {
+      "path": "Campaign/Geography",
+      "color": "djItUCzO4_bnijoRNeswS"
+    },
+    {
+      "path": "Campaign/Parties/Journey Boards",
+      "color": "RgDki54gYsYQaqEBrWwXV"
+    },
+    {
+      "path": "Campaign/Organizations/Hierarchies",
+      "color": "RgDki54gYsYQaqEBrWwXV"
+    }
+  ]
+}

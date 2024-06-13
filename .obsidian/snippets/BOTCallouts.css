@@ -1,0 +1,204 @@
+body .callout.callout.callout[data-callout-metadata="characters"] {
+   --callout-icon: users;
+   --callout-color: 173, 121, 255;
+}
+
+body .callout.callout.callout[data-callout-metadata="location"] {
+   --callout-icon: map-pin;
+   --callout-color: 225, 225, 2;
+}
+
+body .callout.callout.callout[data-callout-metadata="map"] {
+   --callout-icon: map;
+   --callout-color: 102, 255, 155;
+}
+
+body .callout.callout.callout[data-callout-metadata="overview"] {
+   --callout-icon: search;
+   --callout-color: 255, 255, 255;
+}
+
+body .callout.callout.callout[data-callout-metadata="settlements"] {
+   --callout-icon: building-2;
+   --callout-color: 240, 195, 140;
+}
+
+body .callout.callout.callout[data-callout-metadata="sessionlogs"] {
+   --callout-icon: album;
+   --callout-color: 255, 255, 255;
+}
+
+body .callout.callout.callout[data-callout-metadata="quests"] {
+   --callout-icon: alert-circle;
+   --callout-color: 225, 225, 102;
+}
+
+body .callout.callout.callout[data-callout-metadata="servicerequests"] {
+   --callout-icon: tag;
+   --callout-color: 102, 255, 102;
+}
+
+body .callout.callout.callout[data-callout-metadata="letters"] {
+   --callout-icon: mail;
+   --callout-color: 255, 102, 192;
+}
+
+body .callout.callout.callout[data-callout-metadata="misc"] {
+   --callout-icon: help-circle;
+   --callout-color: 255, 255, 255;
+}
+
+body .callout.callout.callout[data-callout-metadata="organizations"] {
+   --callout-icon: component;
+   --callout-color: 255, 168, 102;
+}
+
+body .callout.callout.callout[data-callout-metadata="rolltable"] {
+   --callout-icon: dices;
+   --callout-color: 195, 65, 55;
+}
+
+body .callout.callout.callout[data-callout-metadata="metadata"] {
+   --callout-icon: text;
+   --callout-color: 255, 0, 0;
+}
+
+body .callout.callout.callout[data-callout-metadata="info"] {
+   --callout-icon: lightbulb;
+   --callout-color: 255, 200, 0;
+}
+
+body .callout.callout.callout[data-callout-metadata="county"] {
+   --callout-icon: land-plot;
+   --callout-color: 255, 102, 100;
+}
+
+body .callout.callout.callout[data-callout-metadata="adventure"] {
+   --callout-icon: scroll;
+   --callout-color: 255, 150, 0;
+}
+
+body .callout.callout.callout[data-callout-metadata="ideals"] {
+   --callout-icon: thumbs-up;
+   --callout-color: 0, 255, 0;
+}
+
+body .callout.callout.callout[data-callout-metadata="flaws"] {
+   --callout-icon: thumbs-down;
+   --callout-color: 255, 0, 0;
+}
+
+body .callout.callout.callout[data-callout-metadata="metadataoption"] {
+   --callout-icon: list;
+   --callout-color: 255, 200, 0;
+}
+
+body .callout.callout.callout[data-callout-metadata="district"] {
+   --callout-icon: factory;
+   --callout-color: 30, 230, 115;
+}
+
+body .callout.callout.callout[data-callout-metadata="geography"] {
+   --callout-icon: map-pinned;
+   --callout-color: 0, 160, 215;
+}
+
+body .callout.callout.callout[data-callout-metadata="literature"] {
+   --callout-icon: book-open;
+   --callout-color: 130, 200, 115;
+}
+
+body .callout.callout.callout[data-callout-metadata="family"] {
+   --callout-icon: heart;
+   --callout-color: 200, 100, 100;
+}
+
+body .callout.callout.callout[data-callout-metadata="ally"] {
+   --callout-icon: star;
+   --callout-color: 0, 200, 200;
+}
+
+body .callout.callout.callout[data-callout-metadata="friend"] {
+   --callout-icon: hand;
+   --callout-color: 0, 200, 0;
+}
+
+body .callout.callout.callout[data-callout-metadata="like"] {
+   --callout-icon: thumbs-up;
+   --callout-color: 50, 150, 0;
+}
+
+body .callout.callout.callout[data-callout-metadata="dislike"] {
+   --callout-icon: thumbs-down;
+   --callout-color: 200, 100, 0;
+}
+
+body .callout.callout.callout[data-callout-metadata="enemy"] {
+   --callout-icon: shield-alert;
+   --callout-color: 200, 0, 0;
+}
+
+body .callout.callout.callout[data-callout-metadata="fear"] {
+   --callout-icon: activity;
+   --callout-color: 200, 100, 100;
+}
+
+body .callout.callout.callout[data-callout-metadata="mannerism"] {
+   --callout-icon: webhook;
+   --callout-color: 100, 190, 150;
+}
+
+
+body .callout.callout.callout[data-callout-metadata="party"] {
+   --callout-icon: party-popper;
+   --callout-color: 255, 255, 100;
+}
+
+
+body .callout.callout.callout[data-callout-metadata="planet"] {
+   --callout-icon: badge;
+   --callout-color: 50, 255, 200;
+}
+
+body .callout.callout.callout[data-callout-metadata="plane"] {
+   --callout-icon: sparkles;
+   --callout-color: 240, 100, 250;
+}
+
+body .callout.callout.callout[data-callout-metadata="calendar"] {
+   --callout-icon: calendar-days;
+   --callout-color: 255, 255, 255;
+}
+
+body .callout.callout.callout[data-callout-metadata="travel"] {
+   --callout-icon: footprints;
+   --callout-color: 245, 220, 200;
+}
+
+body .callout.callout.callout[data-callout-metadata="rest"] {
+   --callout-icon: bed;
+   --callout-color: 145, 220, 100;
+}
+
+body .callout.callout.callout[data-callout-metadata="sessionstart"] {
+   --callout-icon: thumbs-up;
+   --callout-color: 20, 220, 20;
+}
+
+body .callout.callout.callout[data-callout-metadata="sessionend"] {
+   --callout-icon: thumbs-down;
+   --callout-color: 220, 20, 20;
+}
+
+body .callout.callout.callout[data-callout-metadata="items"] {
+   --callout-icon: sword;
+   --callout-color: 50, 220, 220;
+}
+
+body .callout.callout.callout[data-callout-metadata="jokes"] {
+   --callout-icon: drama;
+   --callout-color: 20, 200, 100;
+}
+
+
+/* https://lucide.dev */
