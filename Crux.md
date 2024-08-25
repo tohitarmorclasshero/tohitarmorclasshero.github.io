@@ -4,15 +4,15 @@ created: 2023-05-04T12:40:00-03:00
 updated: 2023-05-04T12:49:53-03:00
 ---
 
-# 1 CRUX
+# CRUX
 
-#### GODS AT THE SOURCE
+#### Gods At The Source
 All magic in Crux flows from the Divine Age. As in Greek mythology, all supernatural or fantastical elements in Crux -- monsters, magic, even your heroic powers -- are believed to ultimately stem from an antediluvian time of gods & titans.
 
-#### ANCIENT MAGIC
+#### Ancient Magic
 Though spells in Crux are familiar, the style of magic is mythic rather than medieval. To this end, we encourage you to instill your spells with mythic flavor; instead of the spell spirit guardians conjuring angelic figures, it could instead summon a host of spectral hoplites, the spirits of your ancestors or fallen comrades, their arms & armor still scarred & pitted from their final battle.
 
-#### MORE PRECIOUS THAN GOLD
+#### More Precious Than Gold
 Crux has very little metal available for tools. Many weapons, armor, & items are different than those you would find in traditional fantasy. Instead of rapiers & crossbows on Crux, expect spears & slings. This means the people have had to either come up with alternate ways of making the things other low-technology societies make out of metal, or use much less metal in making them. Coins for example are very small amber disks. A substitute for steel exists: the chitin of large bugs called chlén, boiled and treated with secret chemicals and processes, yields a material roughly as hard and flexible as bronze and light as lacquered fibreglass. Chlén isn’t as strong as steel, and doesn’t hold an edge as well, but it’s lighter, much cheaper, and gets the job done.
 
 #### Transportation Troubles
