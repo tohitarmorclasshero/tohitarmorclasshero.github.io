@@ -1,5 +1,0 @@
-/* popover - hide top metadata*/
-
-.popover-content [data-callout-metadata="metadata"] {
-display:none;
-}
