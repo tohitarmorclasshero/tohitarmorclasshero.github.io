@@ -13,5 +13,5 @@ All magic in Crux flows from the Divine Age. As in Greek mythology, all supernat
 Though spells in Crux are familiar, the style of magic is mythic rather than medieval. To this end, we encourage you to instill your spells with mythic flavor; instead of the spell spirit guardians conjuring angelic figures, it could instead summon a host of spectral hoplites, the spirits of your ancestors or fallen comrades, their arms & armor still scarred & pitted from their final battle.
 
 #### MORE PRECIOUS THAN GOLD
-Crux has very little metal available for tools. Many weapons, armor, & items are different than those you would find in traditional fantasy. Instead of rapiers & crossbows in Crux, expect spears & slings.
+Crux has very little metal available for tools. Many weapons, armor, & items are different than those you would find in traditional fantasy. Instead of rapiers & crossbows on Crux, expect spears & slings.
 
